@@ -53,16 +53,6 @@ A lightweight **PHP-based News API** deployed on **Vercel**, designed to fetch a
 
 You can deploy this project to Vercel in minutes:
 
-1. Fork or clone this repository
-2. Go to **[https://vercel.com/new](https://vercel.com/new)**
-3. Import the GitHub repo
-4. Framework Preset: **Other**
-5. Deploy 🎉
-
-### Optional: Vercel Deploy Button
-
-Add this button to deploy instantly:
-
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/samiulalim1230/news-api)
 
 ---
