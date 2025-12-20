@@ -21,7 +21,7 @@ function recentNewsLinks(){
 	$status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 	curl_close($ch);
 	
-	if($status !== 200 || !empty($res)){
+	if($status !== 200 || empty($content)){
 		return false;
 	}
 	
