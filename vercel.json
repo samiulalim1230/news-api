@@ -5,6 +5,7 @@
     }
   },
   "routes": [
-    { "src": "/jamuna.tv",  "dest": "/api/jamuna.tv.php" }
+    { "src": "/jamuna.tv",  "dest": "/api/jamuna.tv.php" },
+    { "src": "/somoynews.tv",  "dest": "/api/somoynews.tv.php" }
   ]
 }
