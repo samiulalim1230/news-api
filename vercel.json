@@ -7,6 +7,7 @@
   "routes": [
     { "src": "/itvbd.com", "dest": "/api/itvbd.com.php" },
     { "src": "/jamuna.tv", "dest": "/api/jamuna.tv.php" },
-    { "src": "/somoynews.tv", "dest": "/api/somoynews.tv.php" }
+    { "src": "/somoynews.tv", "dest": "/api/somoynews.tv.php" },
+    { "src": "/channel24bd.tv", "dest": "/api/channel24bd.tv.php" }
   ]
 }
