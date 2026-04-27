@@ -8,7 +8,7 @@ function newsID($link){
 
 function recentNewsLinks(){
 	$ch = curl_init();
-	curl_setopt($ch, CURLOPT_URL, 'https://jamuna.tv/archive');
+	curl_setopt($ch, CURLOPT_URL, 'https://www.jamuna.tv/archive');
 	curl_setopt($ch, CURLOPT_TIMEOUT, 15);
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
